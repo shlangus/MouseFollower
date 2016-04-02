@@ -10,7 +10,7 @@ First you need to include MouseFollowed.js file into your page. Just paste code 
 <script src="mouseFollower.js"></script>
 ```
 
-Next you need to place the <canvas> into you page and get an object in you script:
+Next you need to place the canvas into you page and get an object in you script:
 ```
 canvas = document.getElementById('myCanvas');
 ctx = canvas.getContext('2d');
