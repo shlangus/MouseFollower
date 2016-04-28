@@ -18,7 +18,7 @@ ctx = canvas.getContext('2d');
 
 Now you can create a MouseFollower object. Give an image source path and the canvas object to the MouseFollower conscructor:
 ```
-var mouseFollower = new MouseFollower('iamge.png', canvas);
+var mouseFollower = new MouseFollower('image.png', canvas);
 ```
 
 You can change some parameters of the MouseFollower object — check comments in source file
